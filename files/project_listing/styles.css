@@ -164,3 +164,17 @@
   width:198px;
   white-space:nowrap;
 }
+#u15 {
+  position:absolute;
+  left:40px;
+  top:190px;
+  width:196px;
+  height:196px;
+}
+#u15_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:196px;
+  height:196px;
+}
